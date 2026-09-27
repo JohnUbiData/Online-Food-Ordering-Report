@@ -1,10 +1,10 @@
-Online Food Delivery Report
+Online Food Ordering Report
 
-An interactive Power BI report analyzing customer demographics, behaviour, and experience within an online food delivery dataset.
+An interactive Power BI report analyzing customer demographics, behaviour, and experience within an online food ordering dataset.
 
 Business Questions
 
-* Who are the customers using the online food delivery service?
+* Who are the customers using the online food ordering service?
 * How are customers distributed across income, age, education, occupation, and family size?
 * How do customers rate their experience?
 * Does customer feedback differ by gender?
