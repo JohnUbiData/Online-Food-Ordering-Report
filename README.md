@@ -12,7 +12,7 @@ The project analyzes 388 customer records across 13 columns to explore customer 
 
 The report consists of two interactive dashboard pages: Customer Overview and Customer Behavior & Experience. Together, they provide a clearer view of the customer base and highlight patterns that can support customer experience analysis and business decision-making.
 
-<img src="./Overview.jpeg" alt="Online Food Ordering — Customer Overview Dashboard" width="100%">
+<img src="./online-food-ordering-report.jpeg" alt="Online Food Ordering — Customer Overview Dashboard" width="100%">
 <hr>
 
 🔗 Business Problem
