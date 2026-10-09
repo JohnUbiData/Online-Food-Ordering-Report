@@ -217,9 +217,7 @@ Based on the analysis, the following actions could support a better understandin
 
 The complete Power BI project file is available in the GitHub repository.
 
-Project file: Online Food Ordering Report.pbix
-
-Replace the filename above with the exact PBIX filename and add its relative link if you upload it to the repository.
+[Download the Power BI Project](./Online-Food-Ordering-Report.pbix)
 
 <hr>
 
