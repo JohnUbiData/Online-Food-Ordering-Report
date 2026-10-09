@@ -1,4 +1,4 @@
-# Online Food Ordering Report
+# 🍔 Online Food Ordering Report
 
 ## An interactive Power BI report analyzing customer demographics, behaviour, and experience within an online food ordering dataset.
 
