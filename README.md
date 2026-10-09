@@ -170,23 +170,23 @@ Key Insights
 
 ## Key Findings
 
-## 1. Positive Feedback Dominates the Dataset
+1. Positive Feedback Dominates the Dataset
 
 Of the 388 records, 317 were associated with positive feedback and 71 with negative feedback. This suggests that positive experiences were more frequently reported in the dataset, although the negative responses still warrant attention.
 
-## 2. Students Represent a Substantial Customer Group
+2. Students Represent a Substantial Customer Group
 
 The dataset includes 207 students. Understanding their preferences and feedback may help businesses better evaluate the needs and experiences of this customer group.
 
-## 3. A Considerable Number of Customers Are Frequent Customers
+3. A Considerable Number of Customers Are Frequent Customers
 
 A total of 146 customers are classified as frequent customers. This group may offer useful opportunities for further analysis of customer satisfaction, engagement, and retention.
 
-## 4. Customer Demographics Provide Useful Segmentation Opportunities
+4. Customer Demographics Provide Useful Segmentation Opportunities
 
 The availability of age, income, education, occupation, gender, and family-size fields allows the customer base to be explored from multiple perspectives.
 
-## 5. Feedback Analysis Can Support Customer Experience Improvements
+5. Feedback Analysis Can Support Customer Experience Improvements
 
 Comparing feedback across gender and customer types provides a starting point for investigating whether customer experiences differ across groups.
 
