@@ -141,7 +141,7 @@ Purpose: Explore customer demographics, characteristics, and customer types to u
 
 <img src="./Overview.jpeg" alt="Customer Overview Dashboard" width="100%">
 
-## Key Insights
+Key Insights
 
 * The dataset contains 388 customers, with an average age of 24.63 years.
 * 207 customers are identified as students, making students a significant group within the dataset.
