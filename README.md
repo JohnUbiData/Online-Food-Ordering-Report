@@ -1,10 +1,10 @@
-🍔 Online Food Ordering Report
+# 🍔 Online Food Ordering Report
 
-Customer Analysis, Behavior & Feedback Insights Using Power BI
+## Customer Analysis, Behavior & Feedback Insights Using Power BI
 
 <hr>
 
-🔗 Project Overview
+## Project Overview
 
 The Online Food Ordering Report is an interactive Power BI project focused on understanding customer demographics, customer types, and feedback patterns within an online food ordering dataset.
 
@@ -15,7 +15,7 @@ The report consists of two interactive dashboard pages: Customer Overview and Cu
 <img src="./IMG_9739.png" alt="Online Food Ordering — Customer Overview Dashboard" width="100%">
 <hr>
 
-🔗 Business Problem
+## Business Problem
 
 Understanding customers is important for businesses that want to improve customer experience, engagement, and retention.
 
@@ -33,7 +33,7 @@ The analysis focuses on:
 
 <hr>
 
-🔗 Key Business Questions
+## Key Business Questions
 
 The analysis was designed to explore the following questions:
 
@@ -51,11 +51,11 @@ The analysis was designed to explore the following questions:
 
 <hr>
 
-🔗 Dataset Overview
+## Dataset Overview
 
 The project uses the Online Food Ordering Report dataset.
 
-🔗 Dataset Details
+## Dataset Details
 
 * Total Records: 388 rows
 * Total Columns: 13
@@ -64,7 +64,7 @@ The project uses the Online Food Ordering Report dataset.
 
 The dataset contains customer demographic information, customer classifications, and feedback-related fields.
 
-🔗 Key Dataset Fields
+## Key Dataset Fields
 
 The dataset includes fields such as:
 
@@ -82,11 +82,11 @@ These fields support the analysis of customer characteristics, customer groups, 
 
 <hr>
 
-🔗 Data Preparation & Transformation
+# Data Preparation & Transformation
 
 Data preparation was carried out in Power Query before creating the dashboard.
 
-🔗 Data Cleaning
+## Data Cleaning
 
 The following steps were performed in Power Query:
 
@@ -96,7 +96,7 @@ The following steps were performed in Power Query:
 
 <img src="./Cleaned Data.jpeg" alt="Data Cleaning in Power Query" width="100%">
 
-🔗 Data Transformation
+## Data Transformation
 
 Calculated columns were created where needed to support customer classification, analysis, and dashboard visualizations.
 
@@ -104,7 +104,7 @@ After preparation, the dataset was loaded into Power BI for analysis and visuali
 
 <hr>
 
-🔗 Data Modeling
+## Data Modeling
 
 This project uses a single-table dataset, so relationships between multiple tables were not required.
 
@@ -112,7 +112,7 @@ The analysis was performed directly on the prepared table, with calculated colum
 
 <hr>
 
-🔗 Key Metrics
+## Key Metrics
 
 The dashboards present the following key metrics:
 
@@ -129,19 +129,19 @@ This indicates that positive feedback was substantially more common than negativ
 
 <hr>
 
-🔗 Power BI Dashboard Structure
+# Power BI Dashboard Structure
 
 The report contains two interactive dashboard pages, each focusing on a different aspect of customer analysis.
 
 <hr>
 
-🔗 Page 1 — Customer Overview
+## Page 1 — Customer Overview
 
 Purpose: Explore customer demographics, characteristics, and customer types to understand the composition of the customer base.
 
 <img src="./Overview.jpeg" alt="Customer Overview Dashboard" width="100%">
 
-🔗 Key Insights
+## Key Insights
 
 * The dataset contains 388 customers, with an average age of 24.63 years.
 * 207 customers are identified as students, making students a significant group within the dataset.
@@ -151,13 +151,13 @@ Purpose: Explore customer demographics, characteristics, and customer types to u
 
 <hr>
 
-🔗 Page 2 — Customer Behavior & Experience
+## Page 2 — Customer Behavior & Experience
 
 Purpose: Examine customer feedback and behavior patterns to better understand customer experience across different groups.
 
 <img src="./Behaviour-Experience.jpeg" alt="Customer Behavior and Experience Dashboard" width="100%">
 
-🔗 Key Insights
+Key Insights
 
 * 317 customers provided positive feedback, compared with 71 customers who provided negative feedback.
 * Positive feedback represents approximately 81.7% of the feedback records, while negative feedback represents approximately 18.3%.
@@ -168,31 +168,31 @@ Purpose: Examine customer feedback and behavior patterns to better understand cu
 
 <hr>
 
-🔗 Key Findings
+## Key Findings
 
-🔗 1. Positive Feedback Dominates the Dataset
+## 1. Positive Feedback Dominates the Dataset
 
 Of the 388 records, 317 were associated with positive feedback and 71 with negative feedback. This suggests that positive experiences were more frequently reported in the dataset, although the negative responses still warrant attention.
 
-🔗 2. Students Represent a Substantial Customer Group
+## 2. Students Represent a Substantial Customer Group
 
 The dataset includes 207 students. Understanding their preferences and feedback may help businesses better evaluate the needs and experiences of this customer group.
 
-🔗 3. A Considerable Number of Customers Are Frequent Customers
+## 3. A Considerable Number of Customers Are Frequent Customers
 
 A total of 146 customers are classified as frequent customers. This group may offer useful opportunities for further analysis of customer satisfaction, engagement, and retention.
 
-🔗 4. Customer Demographics Provide Useful Segmentation Opportunities
+## 4. Customer Demographics Provide Useful Segmentation Opportunities
 
 The availability of age, income, education, occupation, gender, and family-size fields allows the customer base to be explored from multiple perspectives.
 
-🔗 5. Feedback Analysis Can Support Customer Experience Improvements
+## 5. Feedback Analysis Can Support Customer Experience Improvements
 
 Comparing feedback across gender and customer types provides a starting point for investigating whether customer experiences differ across groups.
 
 <hr>
 
-🔗 Recommendations
+## Recommendations
 
 Based on the analysis, the following actions could support a better understanding of customers and their experiences:
 
@@ -205,7 +205,7 @@ Based on the analysis, the following actions could support a better understandin
 
 <hr>
 
-🔗 Technologies Used
+## Technologies Used
 
 * Power BI — Dashboard development and data visualization
 * Power Query — Data cleaning and transformation
@@ -213,7 +213,7 @@ Based on the analysis, the following actions could support a better understandin
 
 <hr>
 
-🔗 Project File
+## Project File
 
 The complete Power BI project file is available in the GitHub repository.
 
@@ -221,7 +221,7 @@ The complete Power BI project file is available in the GitHub repository.
 
 <hr>
 
-🔗 Conclusion
+## Conclusion
 
 The Online Food Ordering Report demonstrates how customer data can be prepared, analyzed, and presented through interactive Power BI dashboards.
 
@@ -231,13 +231,13 @@ By combining customer overview metrics with behavioral and feedback analysis, th
 
 <hr>
 
-🔗 Author
+## Author
 
 John Ubi
 
 Data Analyst | Power BI | SQL | Power Query
 
-🔗 Connect With Me
+## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/john-ubi-858911292
 Email: ubijohn001@gmail.com
