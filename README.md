@@ -94,7 +94,7 @@ The following steps were performed in Power Query:
 * Identified and addressed data inconsistencies
 * Changed data types to ensure fields were suitable for analysis
 
-<img src="./YOUR-DATA-CLEANING-IMAGE.jpeg" alt="Data Cleaning in Power Query" width="100%">
+<img src="./Cleaned Data.jpeg" alt="Data Cleaning in Power Query" width="100%">
 
 🔗 Data Transformation
 
